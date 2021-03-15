@@ -88,4 +88,11 @@ public class MathTest {
         assertArrayEquals(new int[]{-6, -5,-4,-3,-2,-1}, array);
         System.out.println("Test dice02");
     }
+
+    @Test
+    public void dice03() throws Exception{
+        int[] array =  math.dice(120);
+        assertArrayEquals(new int[]{120,121,122,123,124,125}, array);
+        System.out.println("Test dice03");
+    }
 }
