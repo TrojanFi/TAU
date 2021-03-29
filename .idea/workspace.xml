@@ -53,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.GovTestFirefox">
+  <component name="RunManager" selected="Python.SpotifyTestMicrosoftEdge (1)">
     <configuration name="GovTestChrome (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TAU" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,10 +158,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.GovTestFirefox" />
         <item itemvalue="Python.SpotifyTestMicrosoftEdge (1)" />
-        <item itemvalue="Python.SpotifyTestMicrosoftEdge" />
         <item itemvalue="Python.GovTestChrome (1)" />
+        <item itemvalue="Python.GovTestFirefox" />
+        <item itemvalue="Python.SpotifyTestMicrosoftEdge" />
         <item itemvalue="Python.GovTestChrome" />
       </list>
     </recent_temporary>
@@ -186,22 +186,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1616437069517" />
-    <state width="1877" height="311" key="GridCell.Tab.0.bottom" timestamp="1617045632529">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="746" height="311" key="GridCell.Tab.0.bottom" timestamp="1617046399055">
+      <screen x="-1920" y="0" width="1536" height="832" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1617045632529" />
-    <state width="1877" height="311" key="GridCell.Tab.0.center" timestamp="1617045632529">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="746" height="311" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1617046399055" />
+    <state width="1877" height="311" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1617045695618" />
+    <state width="746" height="311" key="GridCell.Tab.0.center" timestamp="1617046399055">
+      <screen x="-1920" y="0" width="1536" height="832" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1617045632529" />
-    <state width="1877" height="311" key="GridCell.Tab.0.left" timestamp="1617045632529">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="746" height="311" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1617046399055" />
+    <state width="1877" height="311" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1617045695618" />
+    <state width="746" height="311" key="GridCell.Tab.0.left" timestamp="1617046399054">
+      <screen x="-1920" y="0" width="1536" height="832" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1617045632529" />
-    <state width="1877" height="311" key="GridCell.Tab.0.right" timestamp="1617045632529">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="746" height="311" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1617046399054" />
+    <state width="1877" height="311" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1617045695618" />
+    <state width="746" height="311" key="GridCell.Tab.0.right" timestamp="1617046399055">
+      <screen x="-1920" y="0" width="1536" height="832" />
     </state>
-    <state width="1877" height="311" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1617045632529" />
+    <state width="746" height="311" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1617046399055" />
+    <state width="1877" height="311" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1617045695618" />
     <state x="880" y="134" width="1040" height="837" key="SettingsEditor" timestamp="1617036271667">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
