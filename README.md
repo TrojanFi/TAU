@@ -1,5 +1,5 @@
 # TAU - labolatorium 02
-Laboratories 
+ścieżka - src/lab02 
 ## Filip Trojanowski 
 ### Scenariusze testowe:
      1. Przetestowanie strony GOV przy użyciu przeglądarki CHROME
