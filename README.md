@@ -1,4 +1,4 @@
-# TAU
+# TAU - labolatorium 02
 Laboratories 
 ## Filip Trojanowski 
 ### Scenariusze testowe:
