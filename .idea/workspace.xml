@@ -189,6 +189,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1616437069517" />
+    <state x="-1306" y="208" key="FileChooserDialogImpl" timestamp="1618162808150">
+      <screen x="-1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="-1306" y="208" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1618162808150" />
     <state width="746" height="311" key="GridCell.Tab.0.bottom" timestamp="1617046953447">
       <screen x="-1920" y="0" width="1536" height="832" />
     </state>
@@ -209,9 +213,10 @@
     </state>
     <state width="746" height="311" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1617046953447" />
     <state width="1877" height="311" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1617045695618" />
-    <state x="880" y="134" width="1040" height="837" key="SettingsEditor" timestamp="1617036271667">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1216" y="107" width="1040" height="837" key="SettingsEditor" timestamp="1618163149131">
+      <screen x="-1920" y="0" width="1536" height="832" />
     </state>
+    <state x="-1216" y="107" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1618163149131" />
     <state x="880" y="134" width="1040" height="837" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1617036271667" />
     <state x="-1422" y="304" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1615753904875">
       <screen x="-1920" y="0" width="1536" height="832" />
@@ -221,9 +226,10 @@
       <screen x="-1920" y="0" width="1536" height="832" />
     </state>
     <state x="-1380" y="219" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1615753921181" />
-    <state x="342" y="140" key="new project wizard" timestamp="1615738534752">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1646" y="74" key="new project wizard" timestamp="1618162817114">
+      <screen x="-1920" y="0" width="1536" height="832" />
     </state>
+    <state x="-1646" y="74" key="new project wizard/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1618162817114" />
     <state x="342" y="140" key="new project wizard/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1615738534752" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
