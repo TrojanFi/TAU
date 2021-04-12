@@ -71,23 +71,79 @@ public class MathTest {
     }
 
     @Test
-    public void dice01() throws Exception{
+    public void dice01() {
         int[] array =  math.dice(1);
         assertArrayEquals(new int[]{1, 2, 3, 4, 5, 6}, array);
         System.out.println("Test dice01");
     }
 
     @Test
-    public void dice02() throws Exception{
+    public void dice02() {
         int[] array =  math.dice(-6);
         assertArrayEquals(new int[]{-6, -5,-4,-3,-2,-1}, array);
         System.out.println("Test dice02");
     }
 
     @Test
-    public void dice03() throws Exception{
+    public void dice03() {
         int[] array =  math.dice(120);
         assertArrayEquals(new int[]{120,121,122,123,124,125}, array);
         System.out.println("Test dice03");
+    }
+
+    @Test
+    public void signsSum01() {
+        int result = math.signsSum('A','B');
+        assertEquals(131,result);
+        System.out.println("Test signsSum01");
+    }
+
+    @Test
+    public void signsSum02() {
+        int result = math.signsSum('D','D');
+        assertEquals(136,result);
+        System.out.println("Test signsSum01");
+    }
+
+    @Test
+    public void signsComparison01() {
+        boolean result = math.signsComparison('D','D');
+        assertFalse(result);
+        System.out.println("Test signsComparison01");
+    }
+
+    @Test
+    public void signsComparison02() {
+        boolean result = math.signsComparison('G','D');
+        assertTrue(result);
+        System.out.println("Test signsComparison02");
+    }
+
+    @Test
+    public void stringComparison01() {
+        boolean result = math.stringComparison("tak","o nie");
+        assertFalse(result);
+        System.out.println("Test stringComparison01");
+    }
+
+    @Test
+    public void stringComparison02() {
+        boolean result = math.stringComparison("very long sentence ","very short text");
+        assertTrue(result);
+        System.out.println("Test stringComparison02");
+    }
+
+    @Test
+    public void stringLengthDifference01() {
+        int result = math.stringLengthDifference("very long sentence ","very short text");
+        assertEquals(4,result);
+        System.out.println("Test stringComparisonLength01");
+    }
+
+    @Test
+    public void stringLengthDifference02() {
+        int result = math.stringLengthDifference("tak","nie");
+        assertEquals(0,result);
+        System.out.println("Test stringComparisonLength02");
     }
 }

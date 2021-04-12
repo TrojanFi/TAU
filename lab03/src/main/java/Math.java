@@ -40,4 +40,19 @@ public class Math {
         return array;
     }
 
+    public int signsSum(char a, char b){
+        return a + b;
+    }
+
+    public boolean signsComparison(char a, char b){
+        return a > b;
+    }
+
+    public boolean stringComparison(String text01, String text02){
+        return text01.length() > text02.length();
+    }
+
+    public int stringLengthDifference(String text01, String text02){
+        return text01.length() - text02.length();
+    }
 }
