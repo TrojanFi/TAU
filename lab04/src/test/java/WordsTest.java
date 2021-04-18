@@ -1,6 +1,7 @@
 import org.junit.Test;
 
 import static org.junit.Assert.*;
+import static org.mockito.ArgumentMatchers.booleanThat;
 import static org.mockito.BDDMockito.given;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
@@ -28,10 +29,10 @@ public class WordsTest {
     }
 
     @Test
-    public void house02() {
+    public void gameOn() {
         Words words = mock(Words.class);
-        given(words.house()).willReturn("house");
-        word = words.house();
-        assertEquals("house",word);
+        given(words.gameOn()).willReturn(false);
+        boolean stan = words.gameOn();
+        assertFalse(stan);
     }
 }
