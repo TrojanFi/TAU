@@ -56,9 +56,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -138,35 +138,43 @@
       <screen x="-1920" y="0" width="1536" height="832" />
     </state>
     <state x="-1559" y="71" width="814" height="728" key="#Intentions/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1618164114490" />
-    <state width="1877" height="151" key="GridCell.Tab.0.bottom" timestamp="1618244096751">
+    <state x="-1346" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1618750941984">
+      <screen x="-1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="-1346" y="128" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1618750941984" />
+    <state width="1877" height="151" key="GridCell.Tab.0.bottom" timestamp="1618751830924">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="151" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618244096751" />
-    <state width="1877" height="151" key="GridCell.Tab.0.center" timestamp="1618244096751">
+    <state width="1877" height="151" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618751830924" />
+    <state width="1877" height="151" key="GridCell.Tab.0.center" timestamp="1618751830923">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="151" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618244096751" />
-    <state width="1877" height="151" key="GridCell.Tab.0.left" timestamp="1618244096751">
+    <state width="1877" height="151" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618751830923" />
+    <state width="1877" height="151" key="GridCell.Tab.0.left" timestamp="1618751830923">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="151" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618244096751" />
-    <state width="1877" height="151" key="GridCell.Tab.0.right" timestamp="1618244096751">
+    <state width="1877" height="151" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618751830923" />
+    <state width="1877" height="151" key="GridCell.Tab.0.right" timestamp="1618751830924">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="151" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618244096751" />
-    <state x="374" y="84" key="Maven.ArtifactSearchDialog" timestamp="1618252269622">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="151" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618751830924" />
+    <state x="-1496" y="81" key="Maven.ArtifactSearchDialog" timestamp="1618751022585">
+      <screen x="-1920" y="0" width="1536" height="832" />
     </state>
-    <state x="-1621" y="67" key="Maven.ArtifactSearchDialog/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1618163592758" />
+    <state x="-1496" y="81" key="Maven.ArtifactSearchDialog/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1618751022585" />
     <state x="374" y="84" key="Maven.ArtifactSearchDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618252269622" />
-    <state x="0" y="98" key="SettingsEditor" timestamp="1618242200631">
+    <state x="281" y="118" key="SettingsEditor" timestamp="1618751809872">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="98" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618242200631" />
+    <state x="281" y="118" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618751809872" />
     <state x="-1380" y="195" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1618164155414">
       <screen x="-1920" y="0" width="1536" height="832" />
     </state>
     <state x="-1380" y="195" key="com.intellij.testIntegration.createTest.CreateTestDialog/-1920.0.1536.832/0.0.1920.1040@-1920.0.1536.832" timestamp="1618164155414" />
+    <state x="342" y="181" key="new project wizard" timestamp="1618751715776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="181" key="new project wizard/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1618751715776" />
     <state x="-1422" y="180" width="672" height="543" key="search.everywhere.popup" timestamp="1618252599834">
       <screen x="-1920" y="0" width="1536" height="832" />
     </state>
