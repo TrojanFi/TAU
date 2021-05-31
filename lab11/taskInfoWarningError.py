@@ -8,7 +8,7 @@ PATH = "C:\Moje pierdoły\Materiały_PJWSTK_semestr_6\Tau\chromedriver.exe"
 driver = webdriver.Chrome(PATH)
 
 driver.get("https://gov.pl")
-
+logging.info("Start test")
 menuGov = driver.find_element_by_class_name("govpl__menu-opener")
 menuGov.click()
 time.sleep(2)
@@ -22,5 +22,6 @@ logging.warning("ooh! watch out! there is not a lot of space on your computer")
 time.sleep(2)
 logging.error("Page was closed due to the unknown problem :(")
 driver.quit()
+logging.info("End test")
 
 
